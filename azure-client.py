@@ -40,14 +40,14 @@ def copyToLocal(args):
   print("todo")
 
 options = {
-  '-pwd' : pwd,
-  '-ls' : ls,
-  '-cd' : cd,
-  '-rm' : rm,
-  '-cp' : cp,
-  '-mv' : mv,
-  '-copyFromLocal' : copyFromLocal,
-  '-copyToLocal' : copyToLocal
+  '-pwd': pwd,
+  '-ls': ls,
+  '-cd': cd,
+  '-rm': rm,
+  '-cp': cp,
+  '-mv': mv,
+  '-copyFromLocal': copyFromLocal,
+  '-copyToLocal': copyToLocal
 }
 
 def main(argv):
